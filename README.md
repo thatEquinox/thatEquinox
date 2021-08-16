@@ -1,7 +1,7 @@
 - 👋 Hey, I’m @thatEquinox
 - 👀 I’m interested in gaming mostly? not sure really.
 - 🌱 I’m currently learning python 
-- 📫 reach me through discord
+- 📫 reach me through 
     Discord: Equinox#1960
 
 <!---
